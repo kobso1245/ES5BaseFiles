@@ -1,0 +1,12 @@
+{
+	"extends": "airbnb/legacy",
+	"rules": {
+		"strict": 1,
+		"no-console": 0,
+		"prefer-const": 0,
+		"import/no-commonjs": 0,
+		"import/no-nodejs-modules": 0,
+		"no-unused-vars": 0,
+		"indent": [1, 2]
+	}
+}
